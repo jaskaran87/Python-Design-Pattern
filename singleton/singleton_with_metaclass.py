@@ -1,5 +1,3 @@
-
-
 class MyInt(type):
     def __call__(cls, *args, **kwds):
         print("*** Here's my int ", args)
