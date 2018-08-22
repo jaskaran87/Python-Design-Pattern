@@ -15,3 +15,5 @@ In addition, patterns allow developers to communicate using well-known, well und
 * Factory Pattern:  Simple Factory Pattern, Abstract Factory Pattern
 
 * Singleton- Singleton with metaclass, With __new__ method, Real Example
+
+* Facade-  Real Example
